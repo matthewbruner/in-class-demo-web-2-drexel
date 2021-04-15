@@ -77,6 +77,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/final setup week2\/deploy\/img\/hero2\/daiga-ellaby-Sg_OwwU2Z9o-unsplash-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 1276979,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/final setup week2\/deploy\/img\/hero2\/daiga-ellaby-Sg_OwwU2Z9o-unsplash-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/final setup week2\/deploy\/img\/hero2\/pexels-jamshed-ahmad-1316297-2-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 628135,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/final setup week2\/deploy\/img\/hero2\/pexels-jamshed-ahmad-1316297-2-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/final setup week2\/deploy\/img\/hero2\/pexels-jimmy-chan-1000529-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 1329447,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/final setup week2\/deploy\/img\/hero2\/pexels-jimmy-chan-1000529-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/final setup week2\/deploy\/img\/hero2\/pexels-julissa-helmuth-3333554-2.jpg" : {
       "ft" : 16384,
       "iS" : 830981,
@@ -96,6 +135,45 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/final setup week2\/deploy\/img\/history\/hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/final setup week2\/deploy\/img\/parkschedule\/mehmet-turgut-kirkgoz-uieffJ_xHzk-unsplash-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 2096237,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/final setup week2\/deploy\/img\/parkschedule\/mehmet-turgut-kirkgoz-uieffJ_xHzk-unsplash-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/final setup week2\/deploy\/img\/parkschedule\/pexels-brett-sayles-1629989-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 966539,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/final setup week2\/deploy\/img\/parkschedule\/pexels-brett-sayles-1629989-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/final setup week2\/deploy\/img\/parkschedule\/pexels-ricardo-esquivel-1868861-2-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 361155,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/final setup week2\/deploy\/img\/parkschedule\/pexels-ricardo-esquivel-1868861-2-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -225,7 +303,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/final setup week2\/dev\/content\/aotw.html",
       "oF" : 0
     },
@@ -233,7 +311,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/final setup week2\/dev\/content\/conservation.html",
       "oF" : 0
     },
@@ -241,31 +319,15 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/final setup week2\/dev\/content\/exhibit.html",
-      "oF" : 0
-    },
-    "\/final setup week2\/dev\/content\/hero-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/final setup week2\/dev\/content\/hero-2.html",
-      "oF" : 0
-    },
-    "\/final setup week2\/dev\/content\/hero.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/final setup week2\/dev\/content\/hero.html",
       "oF" : 0
     },
     "\/final setup week2\/dev\/content\/hero1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/final setup week2\/dev\/content\/hero1.html",
       "oF" : 0
     },
@@ -273,40 +335,24 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/final setup week2\/dev\/content\/hero2.html",
       "oF" : 0
     },
-    "\/final setup week2\/dev\/content\/history.kit" : {
+    "\/final setup week2\/dev\/content\/parkschedule.html" : {
       "cB" : 0,
-      "ft" : 2048,
+      "ft" : 8192,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/final setup week2\/dev\/content\/history.html",
+      "oA" : 0,
+      "oAP" : "\/final setup week2\/dev\/content\/parkschedule.html",
       "oF" : 0
     },
     "\/final setup week2\/dev\/content\/parkschedule.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/final setup week2\/dev\/content\/parkschedule.html",
-      "oF" : 0
-    },
-    "\/final setup week2\/dev\/content\/skills.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/final setup week2\/dev\/content\/skills.html",
-      "oF" : 0
-    },
-    "\/final setup week2\/dev\/content\/skynet.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/final setup week2\/dev\/content\/skynet.html",
       "oF" : 0
     },
     "\/final setup week2\/dev\/global\/footer.kit" : {
@@ -346,7 +392,7 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/final setup week2\/dev\/index.html",
+      "oAP" : "\/final setup week2\/deploy\/index.html",
       "oF" : 2
     },
     "\/final setup week2\/dev\/js\/scripts.js" : {
